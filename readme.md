@@ -1,4 +1,3 @@
-# odin-recipe
 I will be making a website on food recipes
 
 Things I learned:
